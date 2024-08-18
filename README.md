@@ -19,10 +19,11 @@ To get started with the Help Center project, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repository.git
 
-Navigate to the Project Directory
+2. **Navigate to the Project Directory**
+   ```bash
   cd your-repository
   
-Install Dependencies
+3. **Install Dependencies**
 For the frontend:
   cd client
 npm install
@@ -31,18 +32,18 @@ For the backend:
   cd server
 npm install
 
-Start the Backend Server
+4. **Start the Backend Server**
   cd server
 npm start
 
-Start the Frontend Application
+5. **Start the Frontend Application**
 cd client
 npm start
 
-API Endpoints
+6. **API Endpoints**
 GET /cards: Fetch all help cards.
 POST /cards: Add a new help card.
 
 
 
-Replace `your-username` and `your-repository` with your actual GitHub username and repository name. Adjust the `Installation` and `Usage` sections according to your project's specific directory structure if needed.
+**Replace `your-username` and `your-repository` with your actual GitHub username and repository name. Adjust the `Installation` and `Usage` sections according to your project's specific directory structure if needed.**
