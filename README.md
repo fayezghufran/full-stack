@@ -26,23 +26,22 @@ Follow these steps to set up and run the project locally:
    ```bash
    cd your-repository
    
-3. Install Dependencies
-   -Frontend:
+3. Install Dependencies-Frontend:
    ```bash
    cd client
    npm install
 
-   -Bakcend:
+4. Install Dependencies-Backend:
    ```bash
    cd server
    npm install
 
-4. Start the Backend Server
+5. Start the Backend Server
    ```bash
    cd server
    npm start
 
-5. Start the Frontend Application
+6. Start the Frontend Application
    ```bash
    cd client
    npm start
